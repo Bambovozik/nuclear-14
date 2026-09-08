@@ -691,8 +691,8 @@
         - BoSMidKnight
         - BoSMidScribe
         - BoSMidInquisitor
-    - !type:CharacterPlaytimeRequirement
-      tracker: BoSMid
-      min: 30000
+    - !type:CharacterDepartmentTimeRequirement
+      department: BrotherhoodMidwest
+      min: 60000
   items:
     - N14ClothingNeckMWBSShoulderPadPatriot
