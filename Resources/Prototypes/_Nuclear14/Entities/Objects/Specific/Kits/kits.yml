@@ -1179,11 +1179,8 @@
       - id: ClothingHandsGlovesColorYellow
       - id: N14ClothingBeltUtilityFilled
       - id: N14BoxCardboardMREBoxKFilled
-      - id: RemoteSignaller
       - id: SheetSteel10
-        amount: 2
-      - id: SheetGlass10
-        amount: 2 #Forge-change
+      - id: SheetGlass10 #Forge-change
 
 # MBoS Paladin Kits
 - type: entity
