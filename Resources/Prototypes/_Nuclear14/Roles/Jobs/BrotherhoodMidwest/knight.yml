@@ -38,13 +38,12 @@
     head: N14ClothingHeadHatBrotherhoodMidwestHelmet
     outerClothing: N14ClothingOuterMBoSKnightArmor
     pocket1: BoSMidwestKnightSet
-    pocket2: N14CurrencyBoSDollar10 # Forge-Change
     hands: N14ClothingHandsGlovesCombat
     id: N14IDBrotherhoodHolotagKnight
     belt: ClothingBeltMilitary
   storage: # Forge-Change
     back:
-    - N14BoxPlasticFilledMilitary
+    - N14BoxPlasticFilledMilitary2 # Forge-Change
 
 - type: playTimeTracker
   id: BoSMidKnight

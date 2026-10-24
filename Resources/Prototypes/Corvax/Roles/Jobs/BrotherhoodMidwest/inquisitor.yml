@@ -44,13 +44,12 @@
     head:  N14ClothingHeadHatBoSInquisitorCap
     outerClothing: N14ClothingOuterBOSInquisitorCoat
     pocket1: BoSMidwestInquisitorKits
-    pocket2: N14CurrencyBoSDollar50 # Forge-Change
     gloves: N14ClothingHandsGlovesCombat
     id: N14IDBrotherhoodHolotagPaladin
     ears: N14ClothingHeadsetBOSMidwest
   storage: 
     back:
-    - N14BoxPlasticFilledMilitary
+    - N14BoxPlasticFilledMilitary2 # Forge-Change
 
 - type: playTimeTracker
   id: BoSMidInquisitor
